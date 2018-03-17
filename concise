@@ -1,0 +1,12 @@
+<?php
+require __DIR__ . '/easyphp/base.php';
+use concise\Console;
+use concise\exception\ConsoleException;
+use concise\Loader;
+Loader::addLoadPath(__DIR__);
+
+try {
+	Console::make($argv)->handle();
+} catch (ConsoleException $e) {
+	print($e->getCommand() . ':' . $e->getMessage());
+}

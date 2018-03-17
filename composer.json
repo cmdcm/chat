@@ -1,0 +1,23 @@
+{
+    "name": "mdcm/easyphp",
+    "description": "A concise and simple php framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mdcm",
+            "email": "mdcm98@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+         "filp/whoops": "*",
+         "terranc/think-blade": "^1.0",
+         "illuminate/database": "*",
+         "doctrine/dbal": "*",
+         "monolog/monolog": "1.x-dev"
+    },
+     "repositories": [
+        {"type": "composer", "url": "https://packagist.phpcomposer.com"},
+        {"packagist": false}
+    ]
+}

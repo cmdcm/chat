@@ -1,0 +1,2 @@
+[2018-03-14 16:37:07] app.ERROR: Error Processing Request@E:\MyWeb\app\easyphp\app\index\controllers\IndexController.php 9 {"Runtime":"0.069s","Exception":"Exception"} []
+[2018-03-14 16:40:57] app.ERROR: Error Processing Request@E:\MyWeb\app\easyphp\app\index\controllers\IndexController.php 9 {"Runtime":"0.039s","Exception":"Exception"} []

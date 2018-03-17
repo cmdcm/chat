@@ -1,0 +1,1 @@
+[2018-03-10 00:48:02] app.ERROR: Class not exists:app\index\controllers\app\commands\TestCommand@E:\MyWeb\app\easyphp\easyphp\library\concise\Loader.php 59 {"Runtime":"0.172s","Exception":"RuntimeException"} []

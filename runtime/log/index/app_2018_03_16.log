@@ -1,0 +1,1 @@
+[2018-03-16 12:58:21] app.ERROR: Template not exists:E:/MyWeb/app/easyphp/easyphp/../views/index/Index/index.php@E:\MyWeb\app\easyphp\easyphp\library\concise\View.php 128 {"Runtime":"0.216s","Exception":"concise\\exception\\TemplateNotFoundException"} []
